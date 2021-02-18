@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VFixbq/rHptivIKEntasaO4ytPkU3aqkJ/Dh23eXTiP7QD1C3a3hgtLExzPbBKAXqR9WDcaK9YBuZ+Eeq4RLKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sense\\Desktop\\runtimeCsharp_netcore\\runtimeCsharp_netcore\\runtimeCsharp_netcore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sense\\.nuget\\packages\\newtonsoft.json\\11.0.1\\newtonsoft.json.11.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

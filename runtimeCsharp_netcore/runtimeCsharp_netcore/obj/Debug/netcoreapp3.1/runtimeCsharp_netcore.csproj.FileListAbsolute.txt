@@ -1,0 +1,14 @@
+C:\Users\sense\Desktop\runtimeCsharp_netcore\runtimeCsharp_netcore\bin\Debug\netcoreapp3.1\runtimeCsharp_netcore.exe
+C:\Users\sense\Desktop\runtimeCsharp_netcore\runtimeCsharp_netcore\bin\Debug\netcoreapp3.1\runtimeCsharp_netcore.deps.json
+C:\Users\sense\Desktop\runtimeCsharp_netcore\runtimeCsharp_netcore\bin\Debug\netcoreapp3.1\runtimeCsharp_netcore.runtimeconfig.json
+C:\Users\sense\Desktop\runtimeCsharp_netcore\runtimeCsharp_netcore\bin\Debug\netcoreapp3.1\runtimeCsharp_netcore.runtimeconfig.dev.json
+C:\Users\sense\Desktop\runtimeCsharp_netcore\runtimeCsharp_netcore\bin\Debug\netcoreapp3.1\runtimeCsharp_netcore.dll
+C:\Users\sense\Desktop\runtimeCsharp_netcore\runtimeCsharp_netcore\bin\Debug\netcoreapp3.1\runtimeCsharp_netcore.pdb
+C:\Users\sense\Desktop\runtimeCsharp_netcore\runtimeCsharp_netcore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sense\Desktop\runtimeCsharp_netcore\runtimeCsharp_netcore\obj\Debug\netcoreapp3.1\runtimeCsharp_netcore.AssemblyInfoInputs.cache
+C:\Users\sense\Desktop\runtimeCsharp_netcore\runtimeCsharp_netcore\obj\Debug\netcoreapp3.1\runtimeCsharp_netcore.AssemblyInfo.cs
+C:\Users\sense\Desktop\runtimeCsharp_netcore\runtimeCsharp_netcore\obj\Debug\netcoreapp3.1\runtimeCsharp_netcore.csproj.CoreCompileInputs.cache
+C:\Users\sense\Desktop\runtimeCsharp_netcore\runtimeCsharp_netcore\obj\Debug\netcoreapp3.1\runtimeCsharp_netcore.csproj.CopyComplete
+C:\Users\sense\Desktop\runtimeCsharp_netcore\runtimeCsharp_netcore\obj\Debug\netcoreapp3.1\runtimeCsharp_netcore.dll
+C:\Users\sense\Desktop\runtimeCsharp_netcore\runtimeCsharp_netcore\obj\Debug\netcoreapp3.1\runtimeCsharp_netcore.pdb
+C:\Users\sense\Desktop\runtimeCsharp_netcore\runtimeCsharp_netcore\obj\Debug\netcoreapp3.1\runtimeCsharp_netcore.genruntimeconfig.cache
